@@ -1,5 +1,7 @@
 # 🚀 Social Media Backend API (Golang + Gin)
 
+![Project Preview](https://res.cloudinary.com/dgagbheuj/image/upload/v1776327544/dpoz8gelxr66vwfqh9ek.jpg)
+
 A fully-featured **Social Media Backend API** built with **Golang (Gin)**, designed with clean architecture principles and production-level patterns.
 This project demonstrates real-world backend engineering skills including authentication, real-time messaging, notifications, and scalable service structure.
 
